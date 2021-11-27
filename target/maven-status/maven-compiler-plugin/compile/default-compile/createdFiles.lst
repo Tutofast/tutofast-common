@@ -1,0 +1,8 @@
+com/arkisoftware/tutofast/common/application/Notification.class
+com/arkisoftware/tutofast/common/application/Result$Success.class
+com/arkisoftware/tutofast/common/application/Result$Failure.class
+com/arkisoftware/tutofast/common/api/Envelope.class
+com/arkisoftware/tutofast/common/application/Error.class
+com/arkisoftware/tutofast/common/application/Result.class
+com/arkisoftware/tutofast/common/api/ApiController.class
+com/arkisoftware/tutofast/common/application/ResultType.class
